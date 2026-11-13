@@ -1,0 +1,6 @@
+{
+  "name": "Instant Photography",
+  "description": "Browser-based instant camera studio, real-time HTML5 Canvas photo editor, filter suite, and session gallery.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
